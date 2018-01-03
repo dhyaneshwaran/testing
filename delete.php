@@ -12,5 +12,5 @@ if($q)
 else {
 	echo "failed";
 }
-
+//exit();
 ?>
